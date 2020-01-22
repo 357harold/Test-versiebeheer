@@ -6,6 +6,6 @@ public class ArrayPrinter {
 		 printarray(a);
 }
 	public void printarray (double[][] a) {
-		
+		System.out.println(a);
 	}
 }
